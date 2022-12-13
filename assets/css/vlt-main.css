@@ -14,7 +14,7 @@
 /* 01. Helpers */
 :root
 {
-    --p1: #c3323a;
+    --p1: #ed7d3c;
     --pf: Inter;
 }
 
@@ -2172,7 +2172,7 @@ body .pp-scrollable
 .vlt-post-title
 {
     font-size: 1.5rem;
-    line-height: 1.4;
+    line-height: 1.2;
 }
 
 .vlt-post-meta
